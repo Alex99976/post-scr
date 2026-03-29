@@ -24,7 +24,7 @@ winget install --id Microsoft.DotNet.SDK.10 -e --interactive
 # =========================
 winget install --id Discord.Discord -e --interactive
 winget install --id TunnelBear.TunnelBear -e --interactive
-winget install --id Nvidia.NvidiaApp -e --interactive
+# winget install --id Nvidia.NvidiaApp -e --interactive
 winget install --id Valve.Steam -e --interactive
 winget install --id qBittorrent.qBittorrent -e --interactive
 

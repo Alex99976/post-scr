@@ -3,7 +3,7 @@ Write-Host "=== SYSTEM SETUP START ==="
 # =========================
 # BLOCK 1 — EXECUTION POLICY
 # =========================
-Set-ExecutionPolicy RemoteSigned -Scope LocalMachine -Force
+# Set-ExecutionPolicy RemoteSigned -Scope LocalMachine -Force
 
 # =========================
 # BLOCK 2 — LANGUAGE / INPUT

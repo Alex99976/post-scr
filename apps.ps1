@@ -17,7 +17,7 @@ winget install --id RARLab.WinRAR -e --interactive
 winget install --id Notepad++.Notepad++ -e --interactive
 winget install --id Git.Git -e --interactive
 winget install --id OpenJS.NodeJS -e --interactive
-winget install --id Microsoft.DotNet.DesktopRuntime.10 -e --interactive
+winget install --id Microsoft.DotNet.SDK.10 -e --interactive
 
 # =========================
 # BLOCK 2 — APPS

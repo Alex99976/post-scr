@@ -22,6 +22,7 @@ winget install --id Microsoft.DotNet.SDK.10 -e --interactive
 # =========================
 # BLOCK 2 — APPS
 # =========================
+winget install --id Microsoft.VisualStudioCode -e --interactive
 winget install --id Discord.Discord -e --interactive
 winget install --id TunnelBear.TunnelBear -e --interactive
 # winget install --id Nvidia.NvidiaApp -e --interactive
